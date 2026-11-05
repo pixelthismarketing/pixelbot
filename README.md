@@ -29,3 +29,5 @@ Every setting goes in Vercel → your project → Settings → Environment Varia
 
 - Stage 2: chat, with draft → preview → publish and undo on the client's WordPress site
 - Stage 3: quotes, AE hand-offs, GHL notes and Slack summaries
+
+Live preview: https://pixelbot-lac.vercel.app
